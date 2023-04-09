@@ -92,3 +92,139 @@ body{
  .main .search-area img{
    width: 100%;
  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ .explore-wrap .explore-cards-wrap{
+   display: flex;
+}
+ .explore-wrap .explore-cards-wrap .explore-card{
+   display: flex;
+   width: 25%;
+   margin: 12px;
+}
+
+.explore-wrap .explore-cards-wrap .explore-card img{
+   width: 60px;
+}
+
+
+
+
+
+
+
+
+
+/* /////////////////deseric classes////////////////// */
+
+.sec-space{
+
+}
+.container{
+   width: 1140px;
+   background-color: orange;
+}
